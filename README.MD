@@ -82,3 +82,15 @@ Esto es un texto referente auna cita que pondremos debajo:
 Esto es otro texto que no se relaciona con la cita anterior
 >Este si es el propio loko
 
+
+# Lineas Divisores
+Esto es un texto qure será dividido por guines medios.
+
+---
+Esto es otro texto dividido divididos por asteriscos.
+
+***
+
+Esto es otro texto dividido divididos por guines bajos.
+___
+
