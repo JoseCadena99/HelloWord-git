@@ -39,3 +39,33 @@ UnderLine 2
 
 # Imagenes
 ![Logo GitHub](https://logos-marcas.com/wp-content/uploads/2020/11/GitHub-Logo.png)
+
+# Code Snippets
+
+Codigo JSON
+```JSON
+[
+  {
+    "title": "apples",
+    "count": [12000, 20000],
+    "description" : {"text": "...", "sensitive": false}
+  },
+  {
+    "title": "apples",
+    "count": [12000, 20000],
+    "description" : {"text": "...", "sensitive": false}
+  }
+]
+```
+
+Codigo en JavaScript
+```Javascript
+var x, y, z;  // Declare 3 variables
+x = 5;    // Assign the value 5 to x
+y = 6;    // Assign the value 6 to y
+z = x + y;  // Assign the sum of x and y to z
+
+document.getElementById("demo").innerHTML =
+"The value of z is " + z + ".";
+```
+
