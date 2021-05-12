@@ -69,3 +69,9 @@ document.getElementById("demo").innerHTML =
 "The value of z is " + z + ".";
 ```
 
+# Tablas
+| Nombre | Apellido | Documento |
+| ------ | -------- | --------- |
+| Maxi   | Burgos   | 231235
+| Tomas  | Italy    | 5888655
+
