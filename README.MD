@@ -75,3 +75,10 @@ document.getElementById("demo").innerHTML =
 | Maxi   | Burgos   | 231235
 | Tomas  | Italy    | 5888655
 
+# Citas
+Esto es un texto referente auna cita que pondremos debajo:
+> Esto es uan cita
+
+Esto es otro texto que no se relaciona con la cita anterior
+>Este si es el propio loko
+
